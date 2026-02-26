@@ -1,6 +1,4 @@
-package week1.day3;
-
-import java.security.PublicKey;
+package week1.OOPClassObject;
 
 public class Student {
     private String name;

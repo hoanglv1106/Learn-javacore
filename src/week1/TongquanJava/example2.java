@@ -1,4 +1,4 @@
-package week1.day1;
+package week1.TongquanJava;
 
 import java.util.Scanner;
 

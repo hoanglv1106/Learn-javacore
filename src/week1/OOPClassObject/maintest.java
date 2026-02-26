@@ -1,4 +1,4 @@
-package week1.day3;
+package week1.OOPClassObject;
 //Tạo class Student (name, age, score), tạo 3 object và in ra thông tin.
 public class maintest {
     public double average(Student [] students) {

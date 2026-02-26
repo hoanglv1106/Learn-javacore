@@ -1,5 +1,6 @@
-package week1.day1;
+
 //Viết chương trình nhập 2 số nguyên, in ra tổng, hiệu, tích, thương.
+package week1.TongquanJava;
 
 import java.util.Scanner;
 

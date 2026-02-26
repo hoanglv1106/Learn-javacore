@@ -1,4 +1,4 @@
-package week1.day2;
+package week1.DieukienvaVonglap;
 // In bảng cửu chương từ 2 đến 9 bằng vòng lặp for.
 public class Example2 {
     public static void main(String[] args) {
